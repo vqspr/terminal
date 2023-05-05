@@ -5,7 +5,7 @@ let charCounter = 0
 function setup() {
   createCanvas(600, 600);
   noStroke()
-  rectMode(CENTER)gggg
+  rectMode(CENTER)
   myImage = loadImage('background.png');
 }
 
